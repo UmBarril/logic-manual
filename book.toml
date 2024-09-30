@@ -1,0 +1,6 @@
+[book]
+authors = ["UmBarril"]
+language = "pt-br"
+multilingual = false
+src = "src"
+title = "Logic Manual"
