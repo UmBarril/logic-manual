@@ -1,3 +1,4 @@
+
 # Portas
 
 Abaixo estão uma lista de todas as portas lógcas básicas:
@@ -6,5 +7,5 @@ Abaixo estão uma lista de todas as portas lógcas básicas:
 - [AND](./portas-logicas/and.md)
 - [XOR](./portas-logicas/xor.md)
 - [NOT](./portas-logicas/not.md)
-    - [NOR](./portas-logicas/nor.md)
-    - [NAND](./portas-logicas/nand.md)
+  - [NOR](./portas-logicas/nor.md)
+  - [NAND](./portas-logicas/nand.md)

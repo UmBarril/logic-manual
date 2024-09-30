@@ -1,3 +1,4 @@
+
 # Summary
 
 [Introdução](./README.md)
@@ -11,12 +12,12 @@
 
 - [O que são portas lógicas?](./portas-logicas/oque-eh.md)
 - [Portas lógicas](./portas-logicas/portas.md)
-    - [OR](./portas-logicas/or.md)
-    - [AND](./portas-logicas/and.md)
-    - [XOR](./portas-logicas/xor.md)
-    - [NOT](./portas-logicas/not.md)
-        - [NOR](./portas-logicas/nor.md)
-        - [NAND](./portas-logicas/nand.md)
+  - [OR](./portas-logicas/or.md)
+  - [AND](./portas-logicas/and.md)
+  - [XOR](./portas-logicas/xor.md)
+  - [NOT](./portas-logicas/not.md)
+    - [NOR](./portas-logicas/nor.md)
+    - [NAND](./portas-logicas/nand.md)
 - [💫 Exercícios sobre portas lógicas](./portas-logicas/exercicios.md)
 
 # Circuitos lógicos básicos 👩‍🔧

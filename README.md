@@ -1,3 +1,4 @@
+
 # Logic Manual
 
 > [!WARNING]  
