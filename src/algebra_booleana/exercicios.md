@@ -1,17 +1,15 @@
 # Exercícios
- 
 
-Introdução à Álgebra Booleana
+## Introdução à Álgebra Booleana
 
+1. O que é a álgebra booleana e quem foi seu criador?
 
-O que é a álgebra booleana e quem foi seu criador?
+2. Quais são os dois valores básicos usados na álgebra booleana e o que eles representam?
 
-Quais são os dois valores básicos usados na álgebra booleana e o que eles representam?
+3. Qual operação booleana tem como resultado 1 apenas quando todas as entradas são 1?
 
-Qual operação booleana tem como resultado 1 apenas quando todas as entradas são 1?
+4. Descreva a operação OR. O que acontece se uma das entradas for 1?
 
-Descreva a operação OR. O que acontece se uma das entradas for 1?
+5. Explique a função da operação NOT na álgebra booleana. O que acontece com o valor da entrada?
 
-Explique a função da operação NOT na álgebra booleana. O que acontece com o valor da entrada?
-
-Por que a álgebra booleana é importante na eletrônica digital e na computação?
+6. Por que a álgebra booleana é importante na eletrônica digital e na computação?
