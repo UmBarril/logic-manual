@@ -6,3 +6,7 @@ Exemplo:
 Se as entradas forem 1 e 0, a saída será 1.
 Se as entradas forem 1 e 1, a saída será 0.
 A porta XOR é útil em circuitos onde queremos detectar situações em que as entradas são diferentes. Um exemplo comum é em circuitos de adição binária, onde a porta XOR é usada para determinar a soma de dois bits.
+
+---
+
+Teste a porta XOR no nosso simulador. Clique [Aqui](https://umbarril.github.io/logic-simulator).

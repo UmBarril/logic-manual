@@ -7,3 +7,7 @@ Se as entradas forem 1 e 1, a saída será 0.
 Se as entradas forem 1 e 0, a saída será 1.
 
 A porta NAND é muito importante porque pode ser usada para construir qualquer outra porta lógica. Isso significa que, com apenas portas NAND, podemos criar circuitos lógicos complexos. Ela é muito comum em circuitos digitais por sua versatilidade e simplicidade.
+
+---
+
+Teste a porta NAND no nosso simulador. Clique [Aqui](https://umbarril.github.io/logic-simulator).

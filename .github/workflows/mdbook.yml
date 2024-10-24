@@ -30,7 +30,9 @@ jobs:
     runs-on: ubuntu-latest
     env:
       MDBOOK_VERSION: 0.4.36
-      # MDBOOK_EMBEDIFY_VERSION: 0.2.11
+      MDBOOK_QUIZ_VERSION: 0.3.10
+      MDBOOK_ADMONISH_VERSION: 1.18.0
+      #MDBOOK_EMBEDIFY_VERSION: 0.2.11
     steps:
       - uses: actions/checkout@v4
       - name: Install mdBook
@@ -38,7 +40,10 @@ jobs:
           curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
           rustup update
           cargo install --version ${MDBOOK_VERSION} mdbook
+          cargo install --version ${MDBOOK_QUIZ_VERSION} mdbook-quiz --locked
+          cargo install --version ${MDBOOK_ADMONISH_VERSION} mdbook-admonish
       # cargo install --version ${MDBOOK_EMBEDIFY_VERSION} mdbook-embedify
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
@@ -60,5 +65,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          folder: test

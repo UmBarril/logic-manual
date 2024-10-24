@@ -6,3 +6,7 @@ Exemplo:
 Se a entrada for 1, a saída será 0.
 Se a entrada for 0, a saída será 1.
 A porta NOT é usada em circuitos quando precisamos inverter um sinal lógico, ou seja, transformar o "ligado" em "desligado" ou vice-versa. É uma das portas mais básicas e essenciais na construção de sistemas lógicos.
+
+---
+
+Teste a porta NOT no nosso simulador. Clique [Aqui](https://umbarril.github.io/logic-simulator).

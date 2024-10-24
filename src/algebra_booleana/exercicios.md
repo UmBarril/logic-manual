@@ -1,8 +1,11 @@
-# Exercícios
-
-## Introdução à Álgebra Booleana
+# Exercício: Introdução à Álgebra Booleana
 
 1. O que é a álgebra booleana e quem foi seu criador?
+
+    <!-- <details> -->
+    <!--     <summary>Resposta</summary> -->
+    <!---->
+    <!-- </details> -->
 
 2. Quais são os dois valores básicos usados na álgebra booleana e o que eles representam?
 

@@ -6,3 +6,7 @@ Exemplo:
 Se as entradas forem 1 e 0, a saída será 1.
 Se as entradas forem 0 e 0, a saída será 0.
 A porta OR é usada quando queremos que a saída seja verdadeira se qualquer uma das condições for verdadeira. Em circuitos eletrônicos, ela permite que um sistema funcione mesmo que apenas uma das partes esteja ativa.
+
+---
+
+Teste a porta OR no nosso simulador. Clique [Aqui](https://umbarril.github.io/logic-simulator).

@@ -6,3 +6,7 @@ Exemplo:
 Se as entradas forem 0 e 0, a saída será 1.
 Se as entradas forem 1 e 0, a saída será 0.
 A porta NOR é útil quando precisamos de um circuito que só ative a saída quando nenhuma das entradas estiver ativa (todas forem 0). Em sistemas eletrônicos, ela é usada para condições de negação geral, onde todas as entradas precisam estar "desligadas" para que o sistema funcione.
+
+---
+
+Teste a porta NOR no nosso simulador. Clique [Aqui](https://umbarril.github.io/logic-simulator).
