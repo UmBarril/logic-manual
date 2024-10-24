@@ -1,5 +1,9 @@
 # Exercício: Introdução à Álgebra Booleana
 
+```admonish info
+- **Instruções**: Responda às perguntas abaixo com base nas explicações sobre as portas lógicas. Utilize seus conhecimentos sobre álgebra booleana para responder as questões.
+```
+
 1. O que é a álgebra booleana e quem foi seu criador?
 
     <!-- <details> -->

@@ -20,7 +20,7 @@ Além dessas, existem portas mais avançadas como:
 
 ```admonish info
 
-<p align="center"><img src="/imagens/portas.png"></img></p>
+<p align="center"><img src="../imagens/portas.png"></img></p>
 
 > representação simbólica das portas: And, Nand, Or, Nor, Xor, Not
 
