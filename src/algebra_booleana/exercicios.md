@@ -6,11 +6,6 @@
 
 1. O que é a álgebra booleana e quem foi seu criador?
 
-    <!-- <details> -->
-    <!--     <summary>Resposta</summary> -->
-    <!---->
-    <!-- </details> -->
-
 2. Quais são os dois valores básicos usados na álgebra booleana e o que eles representam?
 
 3. Qual operação booleana tem como resultado 1 apenas quando todas as entradas são 1?
@@ -20,3 +15,5 @@
 5. Explique a função da operação NOT na álgebra booleana. O que acontece com o valor da entrada?
 
 6. Por que a álgebra booleana é importante na eletrônica digital e na computação?
+
+{{#quiz ./quiz-algebra.toml}}

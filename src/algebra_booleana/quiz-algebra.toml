@@ -1,0 +1,95 @@
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+O que é a álgebra booleana e quem foi seu criador?
+"""
+prompt.distractors = [
+  "É uma forma de álgebra que utiliza números complexos, criada por Isaac Newton.",
+  "É um sistema de lógica matemática que usa números inteiros, criado por Alan Turing.",
+  "É um tipo de cálculo que lida com probabilidades, criado por Blaise Pascal."
+]
+answer.answer = "É uma forma de álgebra que trabalha com valores binários (0 e 1), criada por George Boole."
+context = """
+A álgebra booleana é um sistema de lógica matemática desenvolvido por George Boole, que usa valores binários para representar verdadeiro (1) e falso (0).
+"""
+id = "q1"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Quais são os dois valores básicos usados na álgebra booleana e o que eles representam?
+"""
+prompt.distractors = [
+  "0 e 2, representando verdadeiro e falso.",
+  "V e F, representando verdadeiro e fracasso.",
+  "1 e -1, representando positivo e negativo."
+]
+answer.answer = "0 e 1, representando falso e verdadeiro."
+context = """
+Na álgebra booleana, 0 representa falso e 1 representa verdadeiro. Esses são os dois valores fundamentais usados para expressar lógica.
+"""
+id = "q2"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Qual operação booleana tem como resultado 1 apenas quando todas as entradas são 1?
+"""
+prompt.distractors = [
+  "OR",
+  "XOR",
+  "NOT"
+]
+answer.answer = "AND"
+context = """
+A operação AND na álgebra booleana retorna 1 apenas quando todas as entradas são 1, caso contrário, retorna 0.
+"""
+id = "q3"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Descreva a operação OR. O que acontece se uma das entradas for 1?
+"""
+prompt.distractors = [
+  "O resultado será 0 independentemente das outras entradas.",
+  "O resultado será sempre 1, mesmo se todas as entradas forem 0.",
+  "A operação OR não depende das entradas, sempre retorna 1."
+]
+answer.answer = "O resultado será 1 se pelo menos uma das entradas for 1."
+context = """
+A operação OR retorna 1 se uma ou mais entradas forem 1; retorna 0 apenas quando todas as entradas são 0.
+"""
+id = "q4"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Explique a função da operação NOT na álgebra booleana. O que acontece com o valor da entrada?
+"""
+prompt.distractors = [
+  "NOT mantém o valor da entrada.",
+  "NOT transforma o valor da entrada em 1, independentemente do valor original.",
+  "NOT transforma 1 em 2 e 0 em -1."
+]
+answer.answer = "NOT inverte o valor da entrada; se a entrada for 1, resulta em 0, e se for 0, resulta em 1."
+context = """
+A operação NOT é uma inversão lógica que transforma 0 em 1 e 1 em 0.
+"""
+id = "q5"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Por que a álgebra booleana é importante na eletrônica digital e na computação?
+"""
+prompt.distractors = [
+  "Porque é usada para calcular operações de números complexos.",
+  "Porque ajuda a definir estruturas de dados em linguagens de programação.",
+  "Porque é fundamental para o funcionamento de gráficos tridimensionais."
+]
+answer.answer = "Porque é a base para o design de circuitos digitais e operações lógicas nos computadores."
+context = """
+A álgebra booleana é crucial na eletrônica digital e computação porque permite representar e manipular operações lógicas e circuitos binários.
+"""
+id = "q6"

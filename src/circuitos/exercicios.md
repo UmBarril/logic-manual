@@ -22,3 +22,6 @@
     - **A**\) Explique como os somadores completos podem ser usados para somar números binários com mais de um bit. Quantos somadores completos seriam necessários para somar dois números de 4 bits?
     Importância dos Circuitos Adder:
     - **B**\) Por que os circuitos adder são essenciais em sistemas digitais? Dê um exemplo de onde eles são utilizados.
+
+> TODO: Adicionar exercícios pelo simulador
+> TODO: Adicionar exercícios pelo quiz
