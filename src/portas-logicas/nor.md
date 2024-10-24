@@ -19,4 +19,4 @@ A porta NOR é útil quando precisamos de um circuito que só ative a saída qua
 
 ---
 
-Teste a porta NOR no nosso simulador. Clique [Aqui](https://umbarril.github.io/logic-simulator).
+Teste a porta NOR no nosso simulador (AINDA EM CONTRUÇÃO). Clique [Aqui](https://umbarril.github.io/logic-simulator).

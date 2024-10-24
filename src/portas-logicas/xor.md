@@ -19,4 +19,4 @@ A porta XOR é útil em circuitos onde queremos detectar situações em que as e
 
 ---
 
-Teste a porta XOR no nosso simulador. Clique [Aqui](https://umbarril.github.io/logic-simulator).
+Teste a porta XOR no nosso simulador (AINDA EM CONTRUÇÃO). Clique [Aqui](https://umbarril.github.io/logic-simulator).

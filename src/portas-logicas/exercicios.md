@@ -28,5 +28,8 @@
     - **a**\) Se uma porta NAND recebe 1 e 1 como entradas, qual será a saída?
     - **b**\) Se as entradas forem 1 e 0, qual será o valor da saída?
 
-> TODO: Adicionar exercícios pelo simulador
-> TODO: Adicionar exercícios pelo quiz
+<div class=hidden>
+TODO: Adicionar exercícios pelo simulador
+</div>
+
+{{#quiz ./quiz-portas.toml}}

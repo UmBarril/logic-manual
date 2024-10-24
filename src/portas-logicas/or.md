@@ -19,4 +19,4 @@ A porta OR é usada quando queremos que a saída seja verdadeira se qualquer uma
 
 ---
 
-Teste a porta OR no nosso simulador. Clique [Aqui](https://umbarril.github.io/logic-simulator).
+Teste a porta OR no nosso simulador (AINDA EM CONTRUÇÃO). Clique [Aqui](https://umbarril.github.io/logic-simulator).

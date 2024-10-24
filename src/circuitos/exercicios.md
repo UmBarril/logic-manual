@@ -23,5 +23,7 @@
     Importância dos Circuitos Adder:
     - **B**\) Por que os circuitos adder são essenciais em sistemas digitais? Dê um exemplo de onde eles são utilizados.
 
-> TODO: Adicionar exercícios pelo simulador
-> TODO: Adicionar exercícios pelo quiz
+<div class=hidden>
+TODO: Adicionar exercícios pelo simulador
+TODO: Adicionar exercícios pelo quiz
+</div>

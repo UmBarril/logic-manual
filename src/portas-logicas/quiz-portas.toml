@@ -1,0 +1,215 @@
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Sobre Porta AND (E):
+
+Se as entradas de uma porta AND forem 1 e 0, Qual será a saída?
+"""
+prompt.distractors = [
+  "1",
+  "2",
+  "-1"
+]
+answer.answer = "0"
+context = """
+A porta AND só resulta em 1 se todas as entradas forem 1. Neste caso, com entradas 1 e 0, a saída é 0.
+"""
+id = "q7a"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Sobre Porta AND (E):
+
+Agora, considere que as entradas são 1 e 1. Qual será a saída?
+"""
+prompt.distractors = [
+  "0",
+  "-1",
+  "2"
+]
+answer.answer = "1"
+context = """
+Com entradas 1 e 1, a porta AND gera uma saída de 1.
+"""
+id = "q7b"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Sobre Porta OR (OU):
+
+Para uma porta OR com entradas 0 e 1, qual será a saída?
+"""
+prompt.distractors = [
+  "0",
+  "-1",
+  "2"
+]
+answer.answer = "1"
+context = """
+A porta OR resulta em 1 se pelo menos uma das entradas for 1. Neste caso, a saída é 1.
+"""
+id = "q8a"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Sobre Porta OR (OU):
+
+O que acontece se as entradas forem 0 e 0?
+"""
+prompt.distractors = [
+  "1",
+  "2",
+  "-1"
+]
+answer.answer = "0"
+context = """
+Se todas as entradas de uma porta OR forem 0, a saída será 0.
+"""
+id = "q8b"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Sobre Porta XOR (OU exclusivo):
+
+Em uma porta XOR, o que acontece com as entradas 1 e 1? Qual será a saída?
+"""
+prompt.distractors = [
+  "1",
+  "0",
+  "-1"
+]
+answer.answer = "0"
+context = """
+A porta XOR resulta em 1 apenas se as entradas forem diferentes. Com 1 e 1, a saída é 0.
+"""
+id = "q9a"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Sobre Porta XOR (OU exclusivo):
+
+Se as entradas forem 1 e 0, qual é o valor da saída?
+"""
+prompt.distractors = [
+  "0",
+  "-1",
+  "2"
+]
+answer.answer = "1"
+context = """
+A porta XOR gera uma saída de 1 quando as entradas são diferentes, como 1 e 0.
+"""
+id = "q9b"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Sobre Porta NOT (NÃO):
+
+Se a entrada de uma porta NOT for 1, qual será a saída?
+"""
+prompt.distractors = [
+  "1",
+  "2",
+  "-1"
+]
+answer.answer = "0"
+context = """
+A porta NOT inverte a entrada, portanto, se a entrada for 1, a saída será 0.
+"""
+id = "q10a"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Sobre Porta NOT (NÃO):
+
+E se a entrada for 0?
+"""
+prompt.distractors = [
+  "0",
+  "-1",
+  "2"
+]
+answer.answer = "1"
+context = """
+A porta NOT inverte a entrada, portanto, se a entrada for 0, a saída será 1.
+"""
+id = "q10b"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Sobre Porta NOR (OU-NÃO):
+
+Uma porta NOR tem as entradas 0 e 0. Qual será a saída?
+"""
+prompt.distractors = [
+  "1",
+  "0",
+  "2"
+]
+answer.answer = "1"
+context = """
+A porta NOR retorna 1 apenas quando todas as entradas são 0.
+"""
+id = "q11a"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Sobre Porta NOR (OU-NÃO):
+
+O que acontece se uma das entradas for 1?
+"""
+prompt.distractors = [
+  "1",
+  "2",
+  "-1"
+]
+answer.answer = "0"
+context = """
+A porta NOR retorna 0 se pelo menos uma das entradas for 1.
+"""
+id = "q11b"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Sobre Porta NAND (E-NÃO):
+
+Se uma porta NAND recebe 1 e 1 como entradas, qual será a saída?
+"""
+prompt.distractors = [
+  "1",
+  "2",
+  "-1"
+]
+answer.answer = "0"
+context = """
+A porta NAND retorna 0 apenas quando todas as entradas são 1.
+"""
+id = "q12a"
+
+[[questions]]
+type = "MultipleChoice"
+prompt.prompt = """
+Sobre Porta NAND (E-NÃO):
+
+Se as entradas forem 1 e 0, qual será o valor da saída?
+"""
+prompt.distractors = [
+  "0",
+  "-1",
+  "2"
+]
+answer.answer = "1"
+context = """
+A porta NAND retorna 1 se pelo menos uma das entradas for 0.
+"""
+id = "q12b"

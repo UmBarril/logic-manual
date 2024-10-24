@@ -19,4 +19,4 @@ A porta NAND é muito importante porque pode ser usada para construir qualquer o
 
 ---
 
-Teste a porta NAND no nosso simulador. Clique [Aqui](https://umbarril.github.io/logic-simulator).
+Teste a porta NAND no nosso simulador (AINDA EM CONTRUÇÃO). Clique [Aqui](https://umbarril.github.io/logic-simulator).

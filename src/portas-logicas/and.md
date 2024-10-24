@@ -19,4 +19,4 @@ A porta AND é usada quando queremos verificar se todas as condições são verd
 
 ---
 
-Teste a porta AND no nosso simulador. Clique [Aqui](https://umbarril.github.io/logic-simulator).
+Teste a porta AND no nosso simulador (AINDA EM CONTRUÇÃO). Clique [Aqui](https://umbarril.github.io/logic-simulator).

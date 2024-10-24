@@ -17,4 +17,4 @@ A porta NOT é usada em circuitos quando precisamos inverter um sinal lógico, o
 
 ---
 
-Teste a porta NOT no nosso simulador. Clique [Aqui](https://umbarril.github.io/logic-simulator).
+Teste a porta NOT no nosso simulador (AINDA EM CONTRUÇÃO). Clique [Aqui](https://umbarril.github.io/logic-simulator).
